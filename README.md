@@ -1,2 +1,2 @@
 # GitHub
- Repo_raiz
+ Repositório raiz dos projetos de estudo de diferentes tecnologias
